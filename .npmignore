@@ -1,0 +1,25 @@
+# Source code (if you don't want to publish it alongside the build output)
+src/
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# IDE and editor files
+.vscode/
+
+# Configuration files
+rollup.config.js
+.prettierrc
+rollup.config.js
+tsconfig.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Git related
+.git/
+.github/
+.gitignore

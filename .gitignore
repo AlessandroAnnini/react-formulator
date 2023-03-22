@@ -1,0 +1,18 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+
+# Build output
+dist/
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# IDE and editor files
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
